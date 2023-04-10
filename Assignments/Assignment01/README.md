@@ -1,8 +1,8 @@
 ### Heuristic Evaluation – SpotAngeles 
 ## Yun-Pu Yang 
 
-For this project, I would like to conduct heuristic evaluation for an app, SpotAngeles, which designs for users to find parking spots on streets. 
-Below are screenshots of SpotAngeles
+For this project, I would like to conduct heuristic evaluation for an app, SpotAngels, which designs for users to find parking spots on streets. 
+Below are screenshots of SpotAngels
 
 <img src="./SpotAngelsmap.png">
 <img src="./SpotAngelsearn.png">
