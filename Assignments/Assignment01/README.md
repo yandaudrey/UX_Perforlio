@@ -2,7 +2,8 @@
 ## Yun-Pu Yang 
 
 For this project, I would like to conduct heuristic evaluation for an app, SpotAngeles, which designs for users to find parking spots on streets. 
-
+Below are screenshots of SpotAngeles
+<img src="./IMG_6329 2.png">
 
 
 Tentative title (of interest) of your project
