@@ -3,9 +3,11 @@
 
 For this project, I would like to conduct heuristic evaluation for an app, SpotAngeles, which designs for users to find parking spots on streets. 
 Below are screenshots of SpotAngeles
-<img src="./SpotAngels_map.png">
-<img src="./SpotAngels_earn.png">
-<img src="./SpotAngels_deal.png">
+
+<img src="./SpotAngelsmap.png">
+<img src="./SpotAngelsearn.png">
+<img src="./SpotAngelsdeal.png">
+![](Assignment01/SpotAngels_map.png)
 
 Tentative title (of interest) of your project
 2) Your name and course info
