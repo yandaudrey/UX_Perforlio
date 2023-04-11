@@ -22,6 +22,7 @@ This app is good for looking for parking spots, but it is short of the feature t
 
 The app is easy to navigate and does not have too many design that will distract users, but it does not look gorgeours. 
 
+### Methodology 
 As many people have heard, Los Angeles is one of the American cities that has the most chaotic traffic and is difficult to park. For this usability testing, I will assess how useful and user-friendly the app is for Los Angeles users. I have designed three tasks that require my participant to conduct. All of the locations are on Los Angeles. 
 - Task 01: I require the participant to search a specific restuarant, find out where they can park, and how far is the parking spot to the retaurant.  
 - Task 02: I require the participant to search a specific retail store, find out where the cheapest park spot is, when they can park without receiving a citation, and how much the participant has to pay if only parking for 3 hours. 
