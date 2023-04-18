@@ -34,20 +34,14 @@
 > In order to find parking spots, users would typically plan their parking in advance or circle around their destination to find street parking or parking garages. If they are unable to find appropriate street parking spots or parking garages, they may use "parking nearby" as a keyword to search on Google Maps or Apple Maps to find available parking options.
 
 ### Research Methods 
-by covert / overt observation
-by active / passive / participatory interaction * 
-Or something you learned on your own (refer to the field guideline by IDEO, p.39-42)
+I use interview as my method. Click [here](https://docs.google.com/document/d/1iH-zScPMJpHQ98r4wuXA5g-xT2a_HulqHFMT23RCA1A/edit?usp=sharing) to see my interview guide. To make the participant feel comfortable and convenient, I set up a Zoom meeting, so that the participant can stay at any place that they feel safe and relaxed.  
 
-### Contextual Inquiry Guide 
-
-### Interview Transquipts and Video File 
+### Interview Transcripts and Video File 
+Click here to see transcripts 
+For the access of the video file, please contact me: yunpuyang@ucla.edu
 
 ### Reflection 
 
 
-Description of a project design challenge, target users, research method(s)
-Link to your research (contextual inquiry) guide (script)
-Link to your data - images/ audio/video file
-Your interview transcript and/or observation notes
-A short reflection on what you learned from the field study and what you would want to do differently in the future.
+
 
