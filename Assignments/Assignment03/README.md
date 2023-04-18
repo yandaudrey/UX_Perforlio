@@ -3,10 +3,10 @@
 
 ### Project Design Challenge 
 * What is the main activity your project would support for the users?
-Looking for parking spots as part of the daily driving experience is one of the biggest challenges for Los Angeles drivers. My project aims to help Los Angeles drivers find parking spots and improve their driving experience.
+> Looking for parking spots as part of the daily driving experience is one of the biggest challenges for Los Angeles drivers. My project aims to help Los Angeles drivers find parking spots and improve their driving experience.
 
 * What is the basic need/goal involved for that activity? 
-According to Maslow's hierarchy of needs, after fulfilling basic physiological needs, people seek safety and a sense of belonging. When people can easily find a parking spot, their sense of safety and need for belonging to a community can be met. They no longer have to worry about their car being towed or damaged because they parked in an illegal spot. They will also be more willing to go out and explore the world, without worrying about the parking challenge interfering with their experience. This will make them feel more connected to the community.
+> According to Maslow's hierarchy of needs, after fulfilling basic physiological needs, people seek safety and a sense of belonging. When people can easily find a parking spot, their sense of safety and need for belonging to a community can be met. They no longer have to worry about their car being towed or damaged because they parked in an illegal spot. They will also be more willing to go out and explore the world, without worrying about the parking challenge interfering with their experience. This will make them feel more connected to the community.
 
 * What is(are) the traditional/current solution(s) to satisfy the needs?
 1. LA drivers tend to plan their parking before heading out by: 
@@ -19,13 +19,19 @@ According to Maslow's hierarchy of needs, after fulfilling basic physiological n
 
 
 * What is(are) the limitation(s) that possibly would be improved?
-
+> The possible limitation of current parking solutions is that they rely on drivers to plan their parking in advance, which can be inconvenient for those who may forget or who want to make spontaneous trips. 
 
 ### Target Users 
-What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme) 
-In which context (where, why, under which conditions) would the users do that activity? 
-What would the users usually do in order to complete that activity? 
+* What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme) 
+> Demographics: users are all of the LA drivers 
+> Preference: users prefer to find free or cheap parking spots within a short period of time 
+> Expertise: users do not need to have any expertise 
 
+* In which context (where, why, under which conditions) would the users do that activity? 
+> Users would have to find parking spots wherever they go if they are not sure where they can park. This could be when they are visiting any location, such as shopping centers, restaurants, or tourist attractions, and are not familiar with the parking situation. The need to find parking can arise under various conditions, including during rush hour, on weekends, or at popular events when parking is scarce.
+
+* What would the users usually do in order to complete that activity? 
+> In order to find parking spots, users would typically plan their parking in advance or circle around their destination to find street parking or parking garages. If they are unable to find appropriate street parking spots or parking garages, they may use "parking nearby" as a keyword to search on Google Maps or Apple Maps to find available parking options.
 
 ### Research Methods 
 by covert / overt observation
