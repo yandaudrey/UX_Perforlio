@@ -37,7 +37,7 @@
 I use interview as my method. Click [here](https://docs.google.com/document/d/1iH-zScPMJpHQ98r4wuXA5g-xT2a_HulqHFMT23RCA1A/edit?usp=sharing) to see my interview guide. To make the participant feel comfortable and convenient, I set up a Zoom meeting, so that the participant can stay at any place that they feel safe and relaxed.  
 
 ### Interview Transcripts and Video File 
-Click here to see transcripts 
+Click here to see transcripts. 
 For the access of the video file, please contact me: yunpuyang@ucla.edu
 
 ### Reflection 
