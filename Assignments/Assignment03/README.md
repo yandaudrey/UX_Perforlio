@@ -9,13 +9,13 @@
 > According to Maslow's hierarchy of needs, after fulfilling basic physiological needs, people seek safety and a sense of belonging. When people can easily find a parking spot, their sense of safety and need for belonging to a community can be met. They no longer have to worry about their car being towed or damaged because they parked in an illegal spot. They will also be more willing to go out and explore the world, without worrying about the parking challenge interfering with their experience. This will make them feel more connected to the community.
 
 * What is(are) the traditional/current solution(s) to satisfy the needs?
-1. LA drivers tend to plan their parking before heading out by: 
-- Checking whether destinations provide parking spots or not using google
-- Calling destinations to ask where they can park and how much the parking rate is 
-- Ask friends for recommendations 
-2. If drivers do not plan it in advance, they have to figure out where to park when they are approaching  the destination. If the destination provides exclusive parking spots, that's great. If not, drivers have to circle around the destination to find spots. 
-3. In order to eliminate the trouble of finding parking spots, people may carpool when visiting a place known to be difficult to park in, for example, Korean Town. This way, they only have to find one spot or can share the parking fees.
-4. Sometimes Los Angeles residents give up visiting certain places because they do not want to deal with parking challenges. 
+> 1. LA drivers tend to plan their parking before heading out by: 
+(1) Checking whether destinations provide parking spots or not using google
+(2) Calling destinations to ask where they can park and how much the parking rate is 
+(3) Ask friends for recommendations 
+> 2. If drivers do not plan it in advance, they have to figure out where to park when they are approaching  the destination. If the destination provides exclusive parking spots, that's great. If not, drivers have to circle around the destination to find spots. 
+> 3. In order to eliminate the trouble of finding parking spots, people may carpool when visiting a place known to be difficult to park in, for example, Korean Town. This way, they only have to find one spot or can share the parking fees.
+> 4. Sometimes Los Angeles residents give up visiting certain places because they do not want to deal with parking challenges. 
 
 
 * What is(are) the limitation(s) that possibly would be improved?
