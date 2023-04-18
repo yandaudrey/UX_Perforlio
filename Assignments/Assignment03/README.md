@@ -34,7 +34,7 @@
 > In order to find parking spots, users would typically plan their parking in advance or circle around their destination to find street parking or parking garages. If they are unable to find appropriate street parking spots or parking garages, they may use "parking nearby" as a keyword to search on Google Maps or Apple Maps to find available parking options.
 
 ### Research Methods 
-I use interview as my method. Click [here](https://docs.google.com/document/d/1iH-zScPMJpHQ98r4wuXA5g-xT2a_HulqHFMT23RCA1A/edit?usp=sharing) to see my interview guide. To make the participant feel comfortable and convenient, I set up a Zoom meeting, so that the participant can stay at any place that they feel safe and relaxed.  
+I use participatory observation and interview as my methods. Click [here](https://docs.google.com/document/d/1iH-zScPMJpHQ98r4wuXA5g-xT2a_HulqHFMT23RCA1A/edit?usp=sharing) to see my interview guide. To make the participant feel comfortable and convenient, I set up a Zoom meeting, so that the participant can stay at any place that they feel safe and relaxed.  
 
 ### Interview Transcripts and Video File 
 Click here to see transcripts. 
